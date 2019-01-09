@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,cloudsso.cisco.com,Cisco
+DOMAIN-SUFFIX,sso.cisco.com,DIRECT
+DOMAIN-SUFFIX,cisco.com,Cisco
+DOMAIN-SUFFIX,ashk.io,Cisco
+DOMAIN-SUFFIX,azure.com,Cisco
+DOMAIN-SUFFIX,microsoftonline.com,Cisco
+DOMAIN-SUFFIX,cisco.service-now.com,Cisco
+IP-CIDR,10.0.0.0/8,Cisco,no-resolve
+IP-CIDR,64.104.0.0/16,Cisco,no-resolve
+IP-CIDR,72.163.0.0/16,Cisco,no-resolve
+IP-CIDR,173.36.0.0/14,Cisco,no-resolve
+IP-CIDR,64.101.0.0/16,Cisco,no-resolve
+IP-CIDR,192.168.9.0/24,Cisco,no-resolve
