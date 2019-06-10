@@ -2,12 +2,14 @@ DOMAIN-SUFFIX,cloudsso.cisco.com
 DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,ashk.io
 DOMAIN-SUFFIX,cxhk.io
-DOMAIN-SUFFIX,azure.com
-DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,cisco.service-now.com
 DOMAIN-SUFFIX,csone.my.salesforce.com
 DOMAIN-SUFFIX,visual.force.com
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,microsoft.com
 IP-CIDR,10.0.0.0/8,Cisco,no-resolve
 IP-CIDR,64.104.0.0/16,Cisco,no-resolve
 IP-CIDR,72.163.0.0/16,Cisco,no-resolve
