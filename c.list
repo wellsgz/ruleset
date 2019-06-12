@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-KEYWORD,cisco
 IP-CIDR,10.0.0.0/8,Cisco,no-resolve
 IP-CIDR,64.104.0.0/16,Cisco,no-resolve
 IP-CIDR,72.163.0.0/16,Cisco,no-resolve
