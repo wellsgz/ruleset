@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,trickle.tetrationanalytics.com
 DOMAIN-SUFFIX,live.com
-DOMAIN-KEYWORD,cisco
+#DOMAIN-KEYWORD,cisco
 IP-CIDR,10.0.0.0/8,Cisco,no-resolve
 IP-CIDR,172.16.0.0/12,Cisco,no-resolve
 IP-CIDR,192.168.9.0/24,Cisco,no-resolve
