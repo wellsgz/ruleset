@@ -5,7 +5,8 @@ DOMAIN-SUFFIX,cxhk.io
 DOMAIN-SUFFIX,cisco.service-now.com
 DOMAIN-SUFFIX,csone.my.salesforce.com
 DOMAIN-SUFFIX,visual.force.com
-#DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,microsoftonline.com
 #DOMAIN-SUFFIX,office.com
