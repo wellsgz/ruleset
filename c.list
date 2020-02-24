@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,microsoftonline.com
-#DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,msauth.net
