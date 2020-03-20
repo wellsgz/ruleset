@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,trickle.tetrationanalytics.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,kb.tetr.at
-DOMAIN-SUFFIX,www.concursolutions.com
+DOMAIN-SUFFIX,concursolutions.com
 #DOMAIN-KEYWORD,cisco
 IP-CIDR,10.0.0.0/8,Cisco,no-resolve
 IP-CIDR,172.16.0.0/12,Cisco,no-resolve
